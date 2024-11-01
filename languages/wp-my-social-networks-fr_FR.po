@@ -1,0 +1,503 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP My Social Networks\n"
+"POT-Creation-Date: 2017-01-31 13:31+0100\n"
+"PO-Revision-Date: 2017-01-31 13:31+0100\n"
+"Last-Translator: Florent Maillefaud <contact@restezconnectes.fr>\n"
+"Language-Team: Florent Maillefaud <contact@restezconnectes.fr>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n>1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: C:/wamp/www/www/Plugin Wordpress/wp-my-social-"
+"networks\n"
+
+#: classes/wp-mysocials.php:36
+msgid "Settings"
+msgstr "Réglages"
+
+#: classes/wp-mysocials.php:51
+msgid "Display social networks options"
+msgstr "Afficher les options Réseaux Sociaux"
+
+#: classes/wp-mysocials.php:52
+msgid "Social Networks"
+msgstr "Réseaux Sociaux"
+
+#: includes/metabox.php:10 includes/metabox.php:11
+msgid "Display the sharing buttons"
+msgstr "Afficher les boutons de partage"
+
+#: includes/metabox.php:19
+msgid "Choose whether or not to display buttons for social networks:"
+msgstr ""
+"Choisissez si vous souhaitez ou non afficher les boutons des réseaux sociaux:"
+
+#: includes/metabox.php:20
+msgid "Yes"
+msgstr "Oui"
+
+#: includes/metabox.php:23
+msgid "No"
+msgstr "Non"
+
+#: views/wp-mysocials-admin.php:28
+msgid "Options saved."
+msgstr "Options sauvegardées."
+
+#: views/wp-mysocials-admin.php:38
+msgid "The Style Sheet has been reset!"
+msgstr "La feuille de style a bien été réinitilisée"
+
+#: views/wp-mysocials-admin.php:49
+msgid "My Socials Networks Settings"
+msgstr "Paramètres de My Socials Networks"
+
+#: views/wp-mysocials-admin.php:55
+msgid "Facebook"
+msgstr "Facebook"
+
+#: views/wp-mysocials-admin.php:56
+msgid "Twitter"
+msgstr "Twitter"
+
+#: views/wp-mysocials-admin.php:57
+msgid "Google+"
+msgstr "Google+"
+
+#: views/wp-mysocials-admin.php:58
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: views/wp-mysocials-admin.php:59
+msgid "CSS Style"
+msgstr "Style CSS"
+
+#: views/wp-mysocials-admin.php:60
+msgid "Options"
+msgstr "Options"
+
+#: views/wp-mysocials-admin.php:61
+msgid "About"
+msgstr "A propos"
+
+#: views/wp-mysocials-admin.php:75
+msgid "Facebook Like button"
+msgstr "Bouton J'aime de Facebook"
+
+#: views/wp-mysocials-admin.php:80
+msgid "Display the Facebook Like button"
+msgstr "Afficher le bouton J'aime de Facebook"
+
+#: views/wp-mysocials-admin.php:85
+msgid "Display the Facebook Share button"
+msgstr "Afficher le bouton Partager de Facebook"
+
+#: views/wp-mysocials-admin.php:94 views/wp-mysocials-admin.php:193
+#: views/wp-mysocials-admin.php:237
+msgid "Select the type"
+msgstr "Sélectionnez le type"
+
+#: views/wp-mysocials-admin.php:99
+msgid "Select the size"
+msgstr "Sélectionner la taille"
+
+#: views/wp-mysocials-admin.php:103
+msgid "Position the Facebook Like"
+msgstr "Position du bouton"
+
+#: views/wp-mysocials-admin.php:106 views/wp-mysocials-admin.php:148
+#: views/wp-mysocials-admin.php:199 views/wp-mysocials-admin.php:243
+msgid "On the main page"
+msgstr "Sur la page principale"
+
+#: views/wp-mysocials-admin.php:109 views/wp-mysocials-admin.php:151
+#: views/wp-mysocials-admin.php:202 views/wp-mysocials-admin.php:246
+msgid "On the posts"
+msgstr "Sur les articles"
+
+#: views/wp-mysocials-admin.php:112 views/wp-mysocials-admin.php:154
+#: views/wp-mysocials-admin.php:205 views/wp-mysocials-admin.php:249
+msgid "On the categories"
+msgstr "Sur les catégories"
+
+#: views/wp-mysocials-admin.php:115 views/wp-mysocials-admin.php:157
+#: views/wp-mysocials-admin.php:208 views/wp-mysocials-admin.php:252
+msgid "On the pages"
+msgstr "Sur les pages"
+
+#: views/wp-mysocials-admin.php:121 views/wp-mysocials-admin.php:162
+#: views/wp-mysocials-admin.php:214 views/wp-mysocials-admin.php:257
+#: views/wp-mysocials-admin.php:280 views/wp-mysocials-admin.php:323
+msgid "Save this settings"
+msgstr "Sauvegarder ces paramètres"
+
+#: views/wp-mysocials-admin.php:134
+msgid "Twitter button"
+msgstr "Bouton Twitter"
+
+#: views/wp-mysocials-admin.php:138
+msgid "Display re-twitt button"
+msgstr "Afficher le bouton re-Twitte ?"
+
+#: views/wp-mysocials-admin.php:143
+msgid "This user will be refered in the tweet"
+msgstr "Cet utilisateur sera mentionné dans le tweet"
+
+#: views/wp-mysocials-admin.php:175
+msgid "Google+ Share Button"
+msgstr "Bouton Partager de Google+"
+
+#: views/wp-mysocials-admin.php:178
+msgid "Display the Share Google+ Button"
+msgstr "Afficher le bouton Google+"
+
+#: views/wp-mysocials-admin.php:181 views/wp-mysocials-admin.php:236
+msgid "None"
+msgstr "Aucun"
+
+#: views/wp-mysocials-admin.php:182
+msgid "Vertical bubble"
+msgstr "Bulle vertical"
+
+#: views/wp-mysocials-admin.php:183
+msgid "Bubble"
+msgstr "Bulle"
+
+#: views/wp-mysocials-admin.php:184
+msgid "Inline"
+msgstr "En ligne"
+
+#: views/wp-mysocials-admin.php:185
+msgid "Select the annotation"
+msgstr "Sélectionner la disposition"
+
+#: views/wp-mysocials-admin.php:190
+msgid "Small"
+msgstr "Petit"
+
+#: views/wp-mysocials-admin.php:191
+msgid "Medium"
+msgstr "Moyen"
+
+#: views/wp-mysocials-admin.php:192
+msgid "Large"
+msgstr "Large"
+
+#: views/wp-mysocials-admin.php:196
+msgid "Position the Google+ Share Button"
+msgstr "Postition du bouton Partager de Google"
+
+#: views/wp-mysocials-admin.php:226
+msgid "LinkedIn button"
+msgstr "Bouton J'aime de LinkedIn"
+
+#: views/wp-mysocials-admin.php:229
+msgid "Display the LinkedIn button"
+msgstr "Afficher le bouton LinkedIn"
+
+#: views/wp-mysocials-admin.php:234
+msgid "Top"
+msgstr "Haut"
+
+#: views/wp-mysocials-admin.php:235
+msgid "Right"
+msgstr "Droite"
+
+#: views/wp-mysocials-admin.php:240
+msgid "Position the LinkedIn button"
+msgstr "Position du bouton LinkedIn"
+
+#: views/wp-mysocials-admin.php:270
+msgid "CSS style sheet code:"
+msgstr "Code style CSS :"
+
+#: views/wp-mysocials-admin.php:271
+msgid ""
+"Edit the CSS sheet here. Click \"Reset\" and \"Save\" to retrieve the "
+"default style sheet."
+msgstr ""
+"Editer le code CSS ici. Cliquez sur \"Réinitialiser\" et \"Sauvegarder\" "
+"pour remettre le style par défaut."
+
+#: views/wp-mysocials-admin.php:275
+msgid "Reset default CSS stylesheet ?"
+msgstr "Réinitialiser la feuille de style ?"
+
+#: views/wp-mysocials-admin.php:292
+msgid "Don't display on Posts/Pages"
+msgstr "Ne pas afficher sur ces Pages / Articles"
+
+#: views/wp-mysocials-admin.php:294
+msgid ""
+"Enter the <b>ID's</b> of those Pages/Posts separated by comma. e.g "
+"13,5,87<br/>You can also include a <b>custom post types</b> or <b>custom "
+"post format</b> (all separated by comma)"
+msgstr ""
+"Entrer les <b>ID</b> des Pages / Articles séparées par une virgule. Ex : "
+"13,5,87<br/>Vous pouvez aussi inclure un <b>Custom Post Type</b> ou<b>Custom "
+"Post Format</b> (le tout séparé par une virgule)"
+
+#: views/wp-mysocials-admin.php:297
+msgid "Don't display on Category"
+msgstr "Ne pas afficher sur ces catégories"
+
+#: views/wp-mysocials-admin.php:299
+msgid "Enter the ID's of those Categories separated by comma. e.g 131,45,817"
+msgstr ""
+"Entrez les <b>ID</b> des catégories séparées par une virgule. Ex : 131,45,817"
+
+#: views/wp-mysocials-admin.php:304
+msgid "Where to Display"
+msgstr "Où afficher le tout"
+
+#: views/wp-mysocials-admin.php:305
+msgid "Display Above Content"
+msgstr "Afficher avant le contenu"
+
+#: views/wp-mysocials-admin.php:306
+msgid "Display Below Content"
+msgstr "Afficher après le contenu"
+
+#: views/wp-mysocials-admin.php:308
+msgid "If some other plugin is adding the Facebook Meta tags"
+msgstr "Si un autre plugin ajoute les OG Meta Tags de Facebook"
+
+#: views/wp-mysocials-admin.php:309
+msgid "Do not add Facebook OG META tags"
+msgstr "Ne pas ajouter les OG Meta Tags de Facebook"
+
+#: views/wp-mysocials-admin.php:311
+msgid "Add a margin?"
+msgstr "Ajouter une marge ?"
+
+#: views/wp-mysocials-admin.php:313
+msgid "Top margin:"
+msgstr "Marge du haut :"
+
+#: views/wp-mysocials-admin.php:318
+msgid "Bottom margin:"
+msgstr "Marge du bas :"
+
+#: views/wp-mysocials-admin.php:337
+msgid ""
+"This plugin has been developed for you for free by <a href=\"http://www."
+"restezconnectes.fr\" target=\"_blank\">Florent Maillefaud</ a>. It is "
+"royalty free, you can take it, modify it, distribute it as you see fit. <br /"
+"> <br />It would be desirable that I can get feedback on your potential "
+"changes to improve this plugin for all."
+msgstr ""
+"Ce plugin a été développé gratuitement pour vous par <a href=\"http://www."
+"restezconnectes.fr\" target=\"_blank\">Florent Maillefaud</a>. Il est libre "
+"de droits, vous pouvez le prendre, le modifier, le distribuer comme bon vous "
+"semble.<br /><br />Il serait néanmoins souhaitable que je puisse avoir des "
+"retours sur vos éventuelles modifications afin d'améliorer ce plugin pour "
+"tous."
+
+#: views/wp-mysocials-admin.php:342
+msgid ""
+"If you want Donate (French Paypal) for my current and future developments:"
+msgstr ""
+"Si vous souhaitez me soutenir pour mes développements actuels et futurs :"
+
+#~ msgid "AddThis"
+#~ msgstr "AddThis"
+
+#~ msgid "AddThis button"
+#~ msgstr "Bouton AddThis"
+
+#~ msgid "Create your account here:"
+#~ msgstr "Créer votre compte ici :"
+
+#~ msgid "Display Addthis button"
+#~ msgstr "Afficher le bouton AddThis"
+
+#~ msgid "Addthis account"
+#~ msgstr "Compte AddThis"
+
+#~ msgid "Display the Facebook Send button"
+#~ msgstr "Afficher le bouton Envoyer de Facebook"
+
+#~ msgid "Facebook Share button"
+#~ msgstr "Bouton Partager Facebook"
+
+#~ msgid "Position the Facebook Share"
+#~ msgstr "Postition du bouton Partager de Facebook"
+
+#~ msgid "Vertical"
+#~ msgstr "Vertical"
+
+#~ msgid "Horizontal"
+#~ msgstr "Horizontal"
+
+#~ msgid "No count"
+#~ msgstr "Pas de compteur"
+
+#~ msgid "Position the Twitter button"
+#~ msgstr "Position du bouton Twitter"
+
+#~ msgid "Google +1 button"
+#~ msgstr "Bouton +1 de Google"
+
+#~ msgid "Display the +1 button"
+#~ msgstr "Afficher le bouton +1"
+
+#~ msgid "Standard"
+#~ msgstr "Standard"
+
+#~ msgid "Position the Google +1 button"
+#~ msgstr "Position du bouton +1"
+
+#~ msgid ""
+#~ "Edit the CSS sheet of your maintenance page here. Click \"Reset\" and "
+#~ "\"Save\" to retrieve the default style sheet."
+#~ msgstr ""
+#~ "Editer le code CSS de votre page de maintenance ici. Cliquez sur "
+#~ "\"Réinitialiser\" et \"Sauvegarder\" pour remettre le style par défaut."
+
+#~ msgid ""
+#~ "Check this box if you would or not display the share buttons on this post:"
+#~ msgstr "Cocher "
+
+#~ msgid "Position the Facebook Faces"
+#~ msgstr "Position des faces Facebook"
+
+#~ msgid "Other Options"
+#~ msgstr "Autres options"
+
+#~ msgid "Share"
+#~ msgstr "Partager"
+
+#~ msgid "General"
+#~ msgstr "Général"
+
+#~ msgid "Colors"
+#~ msgstr "Couleurs"
+
+#~ msgid "Picture"
+#~ msgstr "Image"
+
+#~ msgid "CountDown"
+#~ msgstr "Compte à rebours"
+
+#~ msgid "Enable maintenance mode :"
+#~ msgstr "Activer le mode maintenance :"
+
+#~ msgid "Title and text for the maintenance page :"
+#~ msgstr "Titre et Texte de la page maintenance :"
+
+#~ msgid "Title :"
+#~ msgstr "Titre :"
+
+#~ msgid "Texte :"
+#~ msgstr "Texte :"
+
+#~ msgid "Choice texts colors :"
+#~ msgstr "Choix des couleurs des textes :"
+
+#~ msgid "Background page color :"
+#~ msgstr "Couleur du fond de page :"
+
+#~ msgid "Text color :"
+#~ msgstr "Couleur du texte :"
+
+#~ msgid "Choice countdown colors :"
+#~ msgstr "Choix des couleurs du compte à rebours :"
+
+#~ msgid "Countdown text color :"
+#~ msgstr "Couleur du texte du compteur :"
+
+#~ msgid "Countdown background color :"
+#~ msgstr "Couleur du fond du compteur :"
+
+#~ msgid "Upload a picture"
+#~ msgstr "Uploader une image"
+
+#~ msgid "You use this picture :"
+#~ msgstr "Image actuelle : "
+
+#~ msgid "Select or Upload your picture"
+#~ msgstr "Sélectionnez / Uploader votre image"
+
+#~ msgid "Enter a URL or upload an image."
+#~ msgstr "Entrez une url ou uploader une image."
+
+#~ msgid "Enable a countdown ?"
+#~ msgstr "Activer le compte à rebours ?"
+
+#~ msgid "Enter the launch date"
+#~ msgstr "Entrez la date de lancement"
+
+#~ msgid "Enable seconds ?"
+#~ msgstr "Afficher les secondes ?"
+
+#~ msgid "End message :"
+#~ msgstr "Message de fin :"
+
+#~ msgid "Font size :"
+#~ msgstr "Taille de la police :"
+
+#~ msgid "CSS style sheet code :"
+#~ msgstr "Code style CSS :"
+
+#~ msgid "Markers for colors"
+#~ msgstr "Marqueurs pour les couleurs"
+
+#~ msgid "Use this code for text color"
+#~ msgstr "Utiliser ce code pour la couleur du texte"
+
+#~ msgid "Use this code for background text color"
+#~ msgstr "Utiliser ce code pour la couleur de fond du texte"
+
+#~ msgid "Use this code for background color countdown"
+#~ msgstr "Utiliser ce code pour la couleur du fond du compte à rebours"
+
+#~ msgid "Use this code for size countdown"
+#~ msgstr "Utiliser ce code pour la taille du compte à rebours"
+
+#~ msgid "Use this code for countdown color"
+#~ msgstr "Utiliser ce code pour la couleur du texte du compte à rebours"
+
+#~ msgid ""
+#~ "If you would use your maintenance.php page in your theme folder, click "
+#~ "Yes."
+#~ msgstr ""
+#~ "Si vous souhaitez utiliser votre page maintenance.php dans le dossier de "
+#~ "votre thème, cliquez sur Oui."
+
+#~ msgid "This site is down for maintenance"
+#~ msgstr "Ce site est en maintenance"
+
+#~ msgid "Days"
+#~ msgstr "Jours"
+
+#~ msgid "Hours"
+#~ msgstr "Heures"
+
+#~ msgid "Minutes"
+#~ msgstr "Minutes"
+
+#~ msgid "Seconds"
+#~ msgstr "Secondes"
+
+#~ msgid "Note : "
+#~ msgstr "Note :"
+
+#~ msgid "Use this code for add color texte"
+#~ msgstr "Utiliser ce code pour la couleur du texte"
+
+#, fuzzy
+#~ msgid ""
+#~ "If this parameter is set to Yes, this is the maintenance.php page of your "
+#~ "theme to be displayed"
+#~ msgstr ""
+#~ "Si ce paramètre est sur Oui, c'est la page maintenance.php de votre thème "
+#~ "qui sera affichée"
+
+#~ msgid "Day"
+#~ msgstr "Jour"

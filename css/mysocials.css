@@ -1,0 +1,19 @@
+/* Styles css pour le plugin Socials Plugin */
+#wp-socials {
+    width:100%;
+    min-height:29px;
+    position: relative;
+    text-align:left;
+}
+
+.wp-socials textarea,
+.wp-socials input[type="text"],
+.wp-socials input[type="password"],
+.wp-socials input[type="file"],
+.wp-socials input[type="button"],
+.wp-socials input[type="submit"],
+.wp-socials input[type="reset"],
+.wp-socials select { float:right;}
+
+.wp-social-espace5 { margin-bottom: 5px; }
+.wp-social-espace8 { margin-bottom: 8px; }

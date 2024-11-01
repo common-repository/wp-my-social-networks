@@ -1,0 +1,292 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WP My Social Networks\n"
+"POT-Creation-Date: 2017-01-31 13:31+0100\n"
+"PO-Revision-Date: 2014-09-22 14:37+0100\n"
+"Last-Translator: Florent <contact@restezconnectes.fr>\n"
+"Language-Team: Florent Maillefaud <contact@restezconnectes.fr>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=n>1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: classes/wp-mysocials.php:36
+msgid "Settings"
+msgstr ""
+
+#: classes/wp-mysocials.php:51
+msgid "Display social networks options"
+msgstr ""
+
+#: classes/wp-mysocials.php:52
+msgid "Social Networks"
+msgstr ""
+
+#: includes/metabox.php:10 includes/metabox.php:11
+msgid "Display the sharing buttons"
+msgstr ""
+
+#: includes/metabox.php:19
+msgid "Choose whether or not to display buttons for social networks:"
+msgstr ""
+
+#: includes/metabox.php:20
+msgid "Yes"
+msgstr ""
+
+#: includes/metabox.php:23
+msgid "No"
+msgstr ""
+
+#: views/wp-mysocials-admin.php:28
+msgid "Options saved."
+msgstr ""
+
+#: views/wp-mysocials-admin.php:38
+msgid "The Style Sheet has been reset!"
+msgstr ""
+
+#: views/wp-mysocials-admin.php:49
+msgid "My Socials Networks Settings"
+msgstr ""
+
+#: views/wp-mysocials-admin.php:55
+msgid "Facebook"
+msgstr ""
+
+#: views/wp-mysocials-admin.php:56
+msgid "Twitter"
+msgstr ""
+
+#: views/wp-mysocials-admin.php:57
+msgid "Google+"
+msgstr ""
+
+#: views/wp-mysocials-admin.php:58
+msgid "LinkedIn"
+msgstr ""
+
+#: views/wp-mysocials-admin.php:59
+msgid "CSS Style"
+msgstr ""
+
+#: views/wp-mysocials-admin.php:60
+msgid "Options"
+msgstr ""
+
+#: views/wp-mysocials-admin.php:61
+msgid "About"
+msgstr ""
+
+#: views/wp-mysocials-admin.php:75
+msgid "Facebook Like button"
+msgstr ""
+
+#: views/wp-mysocials-admin.php:80
+msgid "Display the Facebook Like button"
+msgstr ""
+
+#: views/wp-mysocials-admin.php:85
+msgid "Display the Facebook Share button"
+msgstr ""
+
+#: views/wp-mysocials-admin.php:94 views/wp-mysocials-admin.php:193
+#: views/wp-mysocials-admin.php:237
+msgid "Select the type"
+msgstr ""
+
+#: views/wp-mysocials-admin.php:99
+msgid "Select the size"
+msgstr ""
+
+#: views/wp-mysocials-admin.php:103
+msgid "Position the Facebook Like"
+msgstr ""
+
+#: views/wp-mysocials-admin.php:106 views/wp-mysocials-admin.php:148
+#: views/wp-mysocials-admin.php:199 views/wp-mysocials-admin.php:243
+msgid "On the main page"
+msgstr ""
+
+#: views/wp-mysocials-admin.php:109 views/wp-mysocials-admin.php:151
+#: views/wp-mysocials-admin.php:202 views/wp-mysocials-admin.php:246
+msgid "On the posts"
+msgstr ""
+
+#: views/wp-mysocials-admin.php:112 views/wp-mysocials-admin.php:154
+#: views/wp-mysocials-admin.php:205 views/wp-mysocials-admin.php:249
+msgid "On the categories"
+msgstr ""
+
+#: views/wp-mysocials-admin.php:115 views/wp-mysocials-admin.php:157
+#: views/wp-mysocials-admin.php:208 views/wp-mysocials-admin.php:252
+msgid "On the pages"
+msgstr ""
+
+#: views/wp-mysocials-admin.php:121 views/wp-mysocials-admin.php:162
+#: views/wp-mysocials-admin.php:214 views/wp-mysocials-admin.php:257
+#: views/wp-mysocials-admin.php:280 views/wp-mysocials-admin.php:323
+msgid "Save this settings"
+msgstr ""
+
+#: views/wp-mysocials-admin.php:134
+msgid "Twitter button"
+msgstr ""
+
+#: views/wp-mysocials-admin.php:138
+msgid "Display re-twitt button"
+msgstr ""
+
+#: views/wp-mysocials-admin.php:143
+msgid "This user will be refered in the tweet"
+msgstr ""
+
+#: views/wp-mysocials-admin.php:175
+msgid "Google+ Share Button"
+msgstr ""
+
+#: views/wp-mysocials-admin.php:178
+msgid "Display the Share Google+ Button"
+msgstr ""
+
+#: views/wp-mysocials-admin.php:181 views/wp-mysocials-admin.php:236
+msgid "None"
+msgstr ""
+
+#: views/wp-mysocials-admin.php:182
+msgid "Vertical bubble"
+msgstr ""
+
+#: views/wp-mysocials-admin.php:183
+msgid "Bubble"
+msgstr ""
+
+#: views/wp-mysocials-admin.php:184
+msgid "Inline"
+msgstr ""
+
+#: views/wp-mysocials-admin.php:185
+msgid "Select the annotation"
+msgstr ""
+
+#: views/wp-mysocials-admin.php:190
+msgid "Small"
+msgstr ""
+
+#: views/wp-mysocials-admin.php:191
+msgid "Medium"
+msgstr ""
+
+#: views/wp-mysocials-admin.php:192
+msgid "Large"
+msgstr ""
+
+#: views/wp-mysocials-admin.php:196
+msgid "Position the Google+ Share Button"
+msgstr ""
+
+#: views/wp-mysocials-admin.php:226
+msgid "LinkedIn button"
+msgstr ""
+
+#: views/wp-mysocials-admin.php:229
+msgid "Display the LinkedIn button"
+msgstr ""
+
+#: views/wp-mysocials-admin.php:234
+msgid "Top"
+msgstr ""
+
+#: views/wp-mysocials-admin.php:235
+msgid "Right"
+msgstr ""
+
+#: views/wp-mysocials-admin.php:240
+msgid "Position the LinkedIn button"
+msgstr ""
+
+#: views/wp-mysocials-admin.php:270
+msgid "CSS style sheet code:"
+msgstr ""
+
+#: views/wp-mysocials-admin.php:271
+msgid ""
+"Edit the CSS sheet here. Click \"Reset\" and \"Save\" to retrieve the "
+"default style sheet."
+msgstr ""
+
+#: views/wp-mysocials-admin.php:275
+msgid "Reset default CSS stylesheet ?"
+msgstr ""
+
+#: views/wp-mysocials-admin.php:292
+msgid "Don't display on Posts/Pages"
+msgstr ""
+
+#: views/wp-mysocials-admin.php:294
+msgid ""
+"Enter the <b>ID's</b> of those Pages/Posts separated by comma. e.g "
+"13,5,87<br/>You can also include a <b>custom post types</b> or <b>custom "
+"post format</b> (all separated by comma)"
+msgstr ""
+
+#: views/wp-mysocials-admin.php:297
+msgid "Don't display on Category"
+msgstr ""
+
+#: views/wp-mysocials-admin.php:299
+msgid "Enter the ID's of those Categories separated by comma. e.g 131,45,817"
+msgstr ""
+
+#: views/wp-mysocials-admin.php:304
+msgid "Where to Display"
+msgstr ""
+
+#: views/wp-mysocials-admin.php:305
+msgid "Display Above Content"
+msgstr ""
+
+#: views/wp-mysocials-admin.php:306
+msgid "Display Below Content"
+msgstr ""
+
+#: views/wp-mysocials-admin.php:308
+msgid "If some other plugin is adding the Facebook Meta tags"
+msgstr ""
+
+#: views/wp-mysocials-admin.php:309
+msgid "Do not add Facebook OG META tags"
+msgstr ""
+
+#: views/wp-mysocials-admin.php:311
+msgid "Add a margin?"
+msgstr ""
+
+#: views/wp-mysocials-admin.php:313
+msgid "Top margin:"
+msgstr ""
+
+#: views/wp-mysocials-admin.php:318
+msgid "Bottom margin:"
+msgstr ""
+
+#: views/wp-mysocials-admin.php:337
+msgid ""
+"This plugin has been developed for you for free by <a href=\"http://www."
+"restezconnectes.fr\" target=\"_blank\">Florent Maillefaud</ a>. It is "
+"royalty free, you can take it, modify it, distribute it as you see fit. <br /"
+"> <br />It would be desirable that I can get feedback on your potential "
+"changes to improve this plugin for all."
+msgstr ""
+
+#: views/wp-mysocials-admin.php:342
+msgid ""
+"If you want Donate (French Paypal) for my current and future developments:"
+msgstr ""
